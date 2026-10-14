@@ -1,4 +1,4 @@
-from flask import Flask
+<h1>CI/CD Automatic Deployment Successful!</h1>from flask import Flask
 
 application = Flask(__name__)
 
@@ -10,7 +10,7 @@ def home():
             <title>CI/CD Lab 10</title>
         </head>
         <body>
-            <h1>CI/CD Pipeline Successfully Deployed!</h1>
+            <h1>CI/CD Automatic Deployment Successfull !</h1>
             <p>Lab 10 - Application Deployment using AWS</p>
         </body>
     </html>
